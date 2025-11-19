@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Asistente de Campaña</title>
+    <link rel="stylesheet" href="styles.css">
+    <script type="module" src="chatbot.js"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🗳️ Asistente de Campaña</h1>
+            <p>Consulta rápida de preguntas y respuestas para personas voluntarias</p>
+        </div>
+
+        <div class="chat-container" id="chatContainer">
+            <div class="welcome-message">
+                <h2>¡Hola! Te doy la bienvenida a tu asistente de campaña</h2>
+                <p>Escribe tu pregunta y obtén respuestas instantáneas de nuestra base de conocimientos.</p>
+            </div>
+        </div>
+
+        <div class="input-container">
+            <input 
+                type="text" 
+                id="userInput" 
+                placeholder="Escribe tu pregunta aquí..."
+                autocomplete="off"
+            >
+            <button id="sendBtn">Enviar</button>
+        </div>
+    </div>
+
+    <script src="chatbot.js"></script>
+</body>
+</html>
