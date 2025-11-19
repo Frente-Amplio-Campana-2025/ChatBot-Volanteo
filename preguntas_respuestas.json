@@ -1,231 +1,252 @@
 [
     {
-     
+      "categoria": "asistencia-social",
       "pregunta": "¿Qué proponemos para ampliar quiénes pueden recibir asistencia social?",
       "respuesta": "Planteamos que la asistencia social ya no dependa únicamente del concepto tradicional de pobreza, sino de la vulnerabilidad social. Esto permite incluir a muchas personas que hoy quedan excluidas a pesar de enfrentar situaciones reales de riesgo, como madres jefas de hogar, personas con discapacidad, adultos mayores sin redes de apoyo, comunidades rurales olvidadas o personas afectadas por crisis temporales. Esta ampliación se sustenta en la Ley 10705, que moderniza y humaniza los criterios de selección para que más personas reciban el apoyo que necesitan."
     },
     {
-     
+      "categoria": "asistencia-social",
       "pregunta": "¿Por qué proponemos sustituir el concepto de pobreza por el de vulnerabilidad social?",
       "respuesta": "Porque la pobreza, tal como se mide hoy, deja por fuera a miles de personas que enfrentan situaciones de riesgo igual o incluso más duras. La vulnerabilidad permite considerar factores como discapacidad, violencia, abandono, trabajo no remunerado, falta de acceso a servicios o la zona donde vive la persona. Con este cambio se construye un sistema más justo, más preciso y que reconoce las realidades diversas de la población."
     },
     {
-
+      "categoria": "asistencia-social",
       "pregunta": "¿Qué proponemos para mejorar cómo se eligen las personas beneficiarias de los programas sociales?",
       "respuesta": "Buscamos una revisión completa de los mecanismos de selección, incluyendo SINIRUBE. Hoy existe un sistema algorítmico poco transparente que funciona como una 'caja negra' y termina excluyendo a personas que sí necesitan apoyo. Proponemos un proceso más abierto, verificable, con criterios revisados, participación institucional y filtros que eviten errores y arbitrariedades. La meta es que los beneficios lleguen a quienes realmente los ocupan."
     },
     {
-   
+      "categoria": "asistencia-social",
       "pregunta": "¿Qué proponemos respecto a SINIRUBE?",
       "respuesta": "Proponemos revisar su funcionamiento, sus criterios y su nivel de secretismo. Actualmente, no permite que la ciudadanía entienda por qué quedó dentro o fuera de un programa social. Queremos un sistema más claro, menos restrictivo y que incorpore otras fuentes de información para evitar exclusiones injustas. La idea no es eliminarlo, sino transformarlo para que cumpla con su función de manera humana, transparente y efectiva."
     },
     {
-     
+      "categoria": "pensiones",
       "pregunta": "¿Qué proponemos en pensiones para personas mayores?",
       "respuesta": "Planteamos una pensión universal para mayores de 65 años en condición de pobreza o vulnerabilidad. Esto garantiza que ninguna persona adulta mayor quede desprotegida, especialmente quienes trabajaron toda su vida sin cotizar por empleos informales, cuidados no remunerados o por vivir en zonas sin oportunidades."
     },
     {
-     
+      "categoria": "pensiones",
       "pregunta": "¿Qué apoyo proponemos para mujeres de 60 a 64 años que han sido cuidadoras toda su vida?",
       "respuesta": "Proponemos una pensión de transición para mujeres de 60 a 64 años que dedicaron su vida al cuido de otras personas sin recibir salario. Es un reconocimiento a un trabajo que sostiene hogares enteros, pero que históricamente ha sido invisibilizado. Esta pensión garantiza seguridad y bienestar mientras llegan a la edad de pensión universal."
     },
     {
-     
+      "categoria": "pensiones",
       "pregunta": "¿Qué proponemos para niñas, niños, jóvenes y personas con discapacidad?",
       "respuesta": "Planteamos una pensión para menores de 35 años con discapacidad permanente y para personas con discapacidad de 0 a 64 años que viven en territorios indígenas. Es una forma de garantizar inclusión, movilidad social y condiciones dignas para quienes enfrentan barreras dobles o triples."
     },
     {
-  
+      "categoria": "educacion",
       "pregunta": "¿Qué proponemos sobre transferencias monetarias para estudiantes en pobreza o vulnerabilidad?",
       "respuesta": "Proponemos transferencias directas y apoyos escalonados sin importar territorio, edad, género o condición cultural. Esto significa que cualquier estudiante del sistema público que viva una situación de pobreza, pobreza extrema o vulnerabilidad pueda mantenerse en el sistema educativo sin que la plata sea una barrera."
     },
     {
-     
+      "categoria": "educacion",
       "pregunta": "¿Qué significa universalizar los comedores escolares?",
       "respuesta": "Planteamos que el servicio del PANEA llegue no solo a primaria, sino también a secundaria y educación técnica para estudiantes en pobreza, pobreza extrema o vulnerabilidad. Para muchas familias, el comedor escolar es el único lugar donde sus hijos pueden comer bien. Llevarlo a secundaria fortalece asistencia, rendimiento y permanencia estudiantil."
     },
     {
-    
-      "pregunta": "¿Cómo fortaleceré­mos Avancemos?",
+      "categoria": "educacion",
+      "pregunta": "¿Cómo fortaleceremos Avancemos?",
       "respuesta": "Proponemos reforzar Avancemos Primaria y Secundaria asegurando presupuesto estable, mejorando la eficiencia del uso de los recursos, garantizando continuidad entre primaria y secundaria, evaluando resultados y sumando a las familias al programa Conectados para asegurar condiciones reales de estudio. Además, Avancemos sería clave para combatir el trabajo infantil y evitar deserción."
     },
     {
-  
+      "categoria": "cuido",
       "pregunta": "¿Cómo apoyamos a madres beneficiarias de CECUDI?",
       "respuesta": "Proponemos priorizar a estas madres para ingresar a la Renta Mínima Feminizada y a la Estrategia Puente. Esto fortalece su estabilidad económica, su capacidad de insertarse laboralmente y brinda acompañamiento integral para que puedan mejorar su calidad de vida y la de sus hijos."
     },
     {
- 
+      "categoria": "cuido",
       "pregunta": "¿Qué proponemos para conectar a madres jóvenes del sistema de cuido con oportunidades de estudio?",
       "respuesta": "Planteamos un programa que vincule directamente a madres jóvenes que usan los servicios de cuido con estudios en el MEP, INA o universidades públicas y privadas. La idea es que no se queden estancadas: mientras sus hijos están cuidados, ellas pueden avanzar en educación o formación técnica que les abra oportunidades laborales reales."
     },
     {
-     
+      "categoria": "cuido",
       "pregunta": "¿Qué proponemos para mejorar la Red de Cuido?",
       "respuesta": "Mejorar la coordinación con CEN-CINAI, crear evaluaciones anuales para CECUDI e iniciativas privadas, establecer un modelo de pago compartido para ampliar cobertura y reforzar modalidades de atención para personas mayores y personas con discapacidad en situación de calle. Todo orientado a calidad, sostenibilidad y mayor alcance territorial."
     },
     {
-   
+      "categoria": "poblaciones-vulnerables",
       "pregunta": "¿Qué proponemos respecto a personas en situación de calle o abandono?",
       "respuesta": "Proponemos ampliar modalidades de atención, reorganizar la estructura del IAFA para mejorar enfoques y servicios, generar procesos de identificación en territorio de personas en abandono y coordinar instituciones públicas y privadas para brindar atención integral. El enfoque es de derechos humanos y acompañamiento real."
     },
     {
-    
+      "categoria": "reformas-legales",
       "pregunta": "¿Qué cambios planteamos en leyes relacionadas con bienestar social?",
       "respuesta": "Proponemos declarar la asistencia social como un derecho mediante reforma a la Ley del IMAS; modificar la Ley Avancemos para asegurar presupuesto estable; recuperar el proyecto 24.227 para proteger el financiamiento de FODESAF; y endurecer sanciones a patronos morosos. Buscamos blindar el sistema para que ningún gobierno pueda recortar ayudas sin justificación."
     },
     {
-   
+      "categoria": "trabajo",
       "pregunta": "¿Qué proponemos para mejorar la inspección laboral en zonas con alto rezago social?",
       "respuesta": "Planteamos que la inspección laboral llegue de manera activa a las regiones fuera del GAM que tienen los índices de desarrollo humano más bajos. Esto se haría usando herramientas de inteligencia de datos y geolocalización para identificar focos de explotación, vulnerabilidad y violación de derechos laborales. La idea es intervenir directamente donde las personas trabajadoras están más desprotegidas y coordinar con las inspecciones del MTSS para corregir situaciones que agravan la pobreza y la exclusión."
     },
     {
-     
+      "categoria": "trabajo",
       "pregunta": "¿Qué proponemos para fortalecer la Renta Mínima Feminizada y la Estrategia Puente?",
       "respuesta": "Proponemos priorizar a las madres de niños y niñas que usan los CECUDI para ingresar a estos programas. Esto facilita que accedan a acompañamiento económico, formación, apoyo psicosocial y oportunidades laborales. Además, se identificarán familias con personas cercanas a la edad de pensionarse para vincularlas con el régimen no contributivo y otros apoyos del MTSS, evitando que queden rezagadas o caigan en abandono económico."
     },
     {
-     
+      "categoria": "educacion",
       "pregunta": "¿Qué proponemos para mejorar el acceso a oportunidades educativas para madres jóvenes?",
       "respuesta": "Planteamos un programa que conecte automáticamente a madres jóvenes beneficiarias de la Red de Cuido con opciones de estudio en el MEP, el INA y universidades públicas o privadas. Esto permitiría que, mientras sus hijos están en un espacio seguro, ellas avancen en educación o formación técnica. IMAS, MTSS y PANI trabajarían juntos para identificar y acompañar a estas madres durante su proceso educativo."
     },
     {
-    
+      "categoria": "cuido",
       "pregunta": "¿Qué proponemos para mejorar la coordinación en los servicios de cuido infantil?",
       "respuesta": "Proponemos atender todas las recomendaciones de la Contraloría para asegurar acceso universal, mejorar la articulación entre instituciones y fortalecer la calidad del servicio. Además, se busca una coordinación más fuerte entre la Red de Cuido y los CEN-CINAI, para que trabajen como una red integrada y con un mismo enfoque de desarrollo infantil."
     },
     {
-   
+      "categoria": "cuido",
       "pregunta": "¿Qué proponemos respecto a la evaluación de los CECUDI y otros centros de cuido?",
       "respuesta": "Proponemos evaluaciones anuales con instrumentos estandarizados que midan eficiencia, eficacia, cambios generados y sostenibilidad. Esto permite mejorar continuamente los servicios de la Red Nacional de Cuido, asegurar calidad y garantizar que cada inversión realmente beneficie a las familias."
     },
     {
-      
+      "categoria": "cuido",
       "pregunta": "¿Qué es el modelo de pago compartido que proponemos en la Red de Cuido?",
       "respuesta": "Planteamos un modelo de pago compartido que permita incluir a familias en vulnerabilidad que hoy no pueden pagar un servicio de cuido, pero tampoco califican para la ayuda total. La idea es empezar por los CECUDI municipales y ampliar la cobertura para que más hogares puedan acceder a cuido infantil seguro, educativo y accesible."
     },
     {
-      "categoria": "Protección Social",
+      "categoria": "poblaciones-vulnerables",
       "pregunta": "¿Qué proponemos sobre ampliar las modalidades de atención del PSC?",
       "respuesta": "Planteamos ampliar las modalidades existentes o crear nuevas alternativas según lo que requiera el Protocolo del PSC. Esto garantiza que la atención realmente responda a las realidades del territorio y a las necesidades de las personas, especialmente en casos de riesgo o violencia."
     },
     {
-      "categoria": "Migración",
+      "categoria": "migracion",
       "pregunta": "¿Qué proponemos para facilitar la obtención del DIMEX?",
       "respuesta": "Proponemos una estrategia simplificada mediante un registro unificado de documentos migratorios. Esto facilitará que personas migrantes en situación de vulnerabilidad accedan a servicios sociales, educativos y laborales sin trabas excesivas ni procesos duplicados."
     },
     {
-      "categoria": "Poblaciones Vulnerables",
+      "categoria": "poblaciones-vulnerables",
       "pregunta": "¿Qué proponemos para mejorar la atención de personas adultas mayores y personas con discapacidad en situación de calle?",
       "respuesta": "Proponemos ampliar la cobertura de modalidades especializadas en atención para población adulta mayor y personas con discapacidad en situación de calle. El enfoque sería de derechos humanos, con acompañamiento público y acciones sostenidas que permitan reducir el abandono y la exclusión."
     },
     {
-      "categoria": "Asistencia Social",
+      "categoria": "asistencia-social",
       "pregunta": "¿Qué proponemos sobre campañas de registro de información?",
       "respuesta": "Proponemos campañas coordinadas entre sector público y privado para recolectar información mediante la aplicación de la FIS. Esto permitirá identificar mejor a personas en situación de vulnerabilidad y ordenar los apoyos que necesitan."
     },
     {
-      "categoria": "Poblaciones Vulnerables",
+      "categoria": "poblaciones-vulnerables",
       "pregunta": "¿Qué proponemos sobre el IAFA y la atención de personas en calle?",
       "respuesta": "Planteamos reorganizar la estructura de beneficios y programas del IAFA para cambiar los enfoques de atención, modernizar los servicios y mejorar el acompañamiento a personas en situación de calle. Esto implica procesos más integrales, menos fragmentados y con mayor capacidad de respuesta real."
     },
     {
-      "categoria": "Poblaciones Vulnerables",
+      "categoria": "poblaciones-vulnerables",
       "pregunta": "¿Qué proponemos para atender a personas en abandono?",
       "respuesta": "Proponemos una estrategia de coordinación multisectorial entre instituciones públicas y actores privados en cada territorio para identificar casos de abandono y brindar una atención interinstitucional. Esto permite intervenir situaciones graves antes de que evolucionen a pobreza extrema o calle."
     },
     {
-      "categoria": "Reformas Legales",
+      "categoria": "reformas-legales",
       "pregunta": "¿Qué proponemos para proteger el financiamiento del sistema social?",
       "respuesta": "Proponemos recuperar el proyecto de ley 24.227 para frenar el incumplimiento de los aportes del Poder Ejecutivo a FODESAF, ajustarlos al índice de precios y sancionar a quienes incumplan. Es una forma de blindar el financiamiento de los programas sociales y evitar recortes arbitrarios."
     },
     {
+      "categoria": "trabajo",
       "pregunta": "¿Por qué proponemos modificar el reglamento contra patronos morosos de FODESAF?",
       "respuesta": "Para aumentar multas y sanciones a patronos que no cumplen con sus aportes obligatorios. La morosidad afecta directamente la capacidad del país para financiar becas, pensiones, cuido infantil y programas clave para la población vulnerable. La idea es cerrar portillos y garantizar que quienes deben aportar, aporten."
     },
     {
+      "categoria": "educacion",
       "pregunta": "¿Qué proponemos modificar en la ley de comedores escolares?",
       "respuesta": "Proponemos reformar la Ley 9435 para garantizar que estudiantes de secundaria en los distritos más pobres reciban un subsidio del 100% en comedores escolares. Esto asegura alimentación diaria para adolescentes en mayor riesgo y fortalece la permanencia estudiantil en las zonas más vulnerables."
     },
-     {
-    "pregunta": "¿Qué plantea este plan para mejorar la salud pública en las comunidades?",
-    "respuesta": "Se propone construir un modelo de salud pública comunitaria que funcione como base del desarrollo humano. Esto implica fortalecer la prevención, la promoción de hábitos saludables y la participación directa de las comunidades a través de comités y consejos territoriales."
-  },
-  {
-    "pregunta": "¿Cómo se mejorarían las políticas de salud del país?",
-    "respuesta": "La propuesta incluye actualizar las políticas públicas desde un enfoque de reducción de riesgos y daños, con evidencia científica, enfoque de derechos humanos y una visión descolonizada adaptada a la realidad multicultural del país."
-  },
-  {
-    "pregunta": "¿Qué cambios se harían en la forma en que se evalúan y diseñan las políticas de salud?",
-    "respuesta": "Se establecerían nuevas reglas y directrices desde el MIDEPLAN para mejorar los procesos de evaluación, financiamiento y seguimiento, garantizando que la planificación en salud sea sostenida y no dependa de ciclos políticos cortos."
-  },
-  {
-    "pregunta": "¿Qué propone este plan respecto a los determinantes sociales de la salud como pobreza, vivienda y empleo?",
-    "respuesta": "Se busca que las políticas de salud comunitaria incluyan acciones directas para reducir el sufrimiento psicosocial asociado a pobreza, exclusión social, desempleo y falta de vivienda digna, con prioridad en Puntarenas y Limón."
-  },
-  {
-    "pregunta": "¿Qué importancia tiene la investigación en este plan?",
-    "respuesta": "Se quiere impulsar investigación cualitativa y cuantitativa como herramienta central para tomar decisiones estratégicas en salud, orientando las políticas públicas según evidencia actualizada y realidades locales."
-  },
-  {
-    "pregunta": "¿Cómo se actualizaría el análisis del estado de salud del país?",
-    "respuesta": "Se propone actualizar el análisis sectorial nacional y los Análisis de Situación de Salud (ASIS) en cada área de salud para contar con información vigente que permita adaptar las políticas según las necesidades de cada región."
-  },
-  {
-    "pregunta": "¿Qué cambios se plantean en el primer nivel de atención de la CCSS?",
-    "respuesta": "El plan propone reestructurar el primer nivel para que cuente con mejores indicadores, más presupuesto y mayor enfoque en promoción de la salud y prevención de la enfermedad."
-  },
-  {
-    "pregunta": "¿Cómo participaría la comunidad en el sistema de salud?",
-    "respuesta": "Se forman Comités de Salud Comunitaria y Consejos Distritales de Salud con autonomía, articulados con Juntas de Salud, para que las comunidades participen activamente en decisiones y supervisión del sistema."
-  },
-  {
-    "pregunta": "¿Qué se hará para fortalecer la prevención y la salud primaria?",
-    "respuesta": "Se consolidarán y mejorarán los programas de promoción de la salud y prevención en EBAIS y clínicas, como prioridad nacional."
-  },
-  {
-    "pregunta": "¿Cómo se fortalecerá al Ministerio de Salud?",
-    "respuesta": "Se mejorarán sus capacidades rectoras, regulatorias y operativas, promoviendo la participación comunitaria en los programas de atención primaria."
-  },
-  {
-    "pregunta": "¿Qué acciones se proponen para la prevención del consumo problemático de sustancias?",
-    "respuesta": "Se implementará el Sistema Nacional de Prevención de la Estrategia Nacional sobre Drogas con trabajo interinstitucional entre IAFA, ICD, MEP, PANI y el Ministerio de Salud."
-  },
-  {
-    "pregunta": "¿Cómo se financiarán los programas de reducción de riesgos y daños?",
-    "respuesta": "Se propone oficializar por decreto la asignación de recursos provenientes de los impuestos a licores, cerveza y cigarrillos, para que financien también dispositivos de reducción de riesgos y daños."
-  },
-  {
-    "pregunta": "¿Qué relación tiene este plan con la vivienda y el entorno urbano?",
-    "respuesta": "El derecho a la salud se integra a la Política Nacional del Hábitat para asegurar que los entornos construidos favorezcan el bienestar y la salud comunitaria."
-  },
-  {
-    "pregunta": "¿Qué se propone para emergencias que requieren usar instalaciones privadas?",
-    "respuesta": "Se busca reglamentar cómo el Ministerio de Salud puede disponer de establecimientos privados en casos de emergencia, priorizando el derecho a la salud y la sostenibilidad del sistema público."
-  },
-  {
-    "pregunta": "¿Cómo se abordará la salud mental?",
-    "respuesta": "Se priorizará la implementación de la Política Nacional de Salud Mental 2024-2034, con énfasis en determinantes sociales, perspectiva de género y desarrollo humano."
-  },
-  {
-    "pregunta": "¿Qué temas de salud mental se consideran urgentes?",
-    "respuesta": "Se dará atención prioritaria a ansiedad, depresión, riesgo suicida, consumo de sustancias y patología dual, con coordinación entre todos los niveles del sistema de salud."
-  },
-  {
-    "pregunta": "¿Qué propone el plan para la atención de adicciones?",
-    "respuesta": "Se fortalecerá el programa EISAA en la CCSS, promoviendo trabajo interdisciplinario e interinstitucional junto con IAFA, ICD, MEP y PANI."
-  },
-  {
-    "pregunta": "¿Cómo se promoverán entornos saludables?",
-    "respuesta": "Se fomentarán espacios saludables en escuelas, trabajos, hogares y comunidades mediante campañas, alianzas interinstitucionales y programas de promoción."
-  },
-  {
-    "pregunta": "¿Qué relación hay entre salud mental y espacios recreativos?",
-    "respuesta": "Se generarán encadenamientos con pymes para habilitar más espacios recreativos en zonas verdes y costeras, promoviendo salud mental y dinamizando la economía local."
-  },
-  {
-    "pregunta": "¿Qué cambios laborales se proponen para mejorar la salud en el trabajo?",
-    "respuesta": "Se impulsa el proyecto que garantiza el derecho a usar un asiento durante la jornada laboral, reduciendo riesgos físicos asociados a largas horas de pie."
-  }
-     
+    {
+      "categoria": "salud",
+      "pregunta": "¿Qué plantea este plan para mejorar la salud pública en las comunidades?",
+      "respuesta": "Se propone construir un modelo de salud pública comunitaria que funcione como base del desarrollo humano. Esto implica fortalecer la prevención, la promoción de hábitos saludables y la participación directa de las comunidades a través de comités y consejos territoriales."
+    },
+    {
+      "categoria": "salud",
+      "pregunta": "¿Cómo se mejorarían las políticas de salud del país?",
+      "respuesta": "La propuesta incluye actualizar las políticas públicas desde un enfoque de reducción de riesgos y daños, con evidencia científica, enfoque de derechos humanos y una visión descolonizada adaptada a la realidad multicultural del país."
+    },
+    {
+      "categoria": "salud",
+      "pregunta": "¿Qué cambios se harían en la forma en que se evalúan y diseñan las políticas de salud?",
+      "respuesta": "Se establecerían nuevas reglas y directrices desde el MIDEPLAN para mejorar los procesos de evaluación, financiamiento y seguimiento, garantizando que la planificación en salud sea sostenida y no dependa de ciclos políticos cortos."
+    },
+    {
+      "categoria": "salud",
+      "pregunta": "¿Qué propone este plan respecto a los determinantes sociales de la salud como pobreza, vivienda y empleo?",
+      "respuesta": "Se busca que las políticas de salud comunitaria incluyan acciones directas para reducir el sufrimiento psicosocial asociado a pobreza, exclusión social, desempleo y falta de vivienda digna, con prioridad en Puntarenas y Limón."
+    },
+    {
+      "categoria": "salud",
+      "pregunta": "¿Qué importancia tiene la investigación en este plan?",
+      "respuesta": "Se quiere impulsar investigación cualitativa y cuantitativa como herramienta central para tomar decisiones estratégicas en salud, orientando las políticas públicas según evidencia actualizada y realidades locales."
+    },
+    {
+      "categoria": "salud",
+      "pregunta": "¿Cómo se actualizaría el análisis del estado de salud del país?",
+      "respuesta": "Se propone actualizar el análisis sectorial nacional y los Análisis de Situación de Salud (ASIS) en cada área de salud para contar con información vigente que permita adaptar las políticas según las necesidades de cada región."
+    },
+    {
+      "categoria": "salud",
+      "pregunta": "¿Qué cambios se plantean en el primer nivel de atención de la CCSS?",
+      "respuesta": "El plan propone reestructurar el primer nivel para que cuente con mejores indicadores, más presupuesto y mayor enfoque en promoción de la salud y prevención de la enfermedad."
+    },
+    {
+      "categoria": "salud",
+      "pregunta": "¿Cómo participaría la comunidad en el sistema de salud?",
+      "respuesta": "Se forman Comités de Salud Comunitaria y Consejos Distritales de Salud con autonomía, articulados con Juntas de Salud, para que las comunidades participen activamente en decisiones y supervisión del sistema."
+    },
+    {
+      "categoria": "prevencion-salud",
+      "pregunta": "¿Qué se hará para fortalecer la prevención y la salud primaria?",
+      "respuesta": "Se consolidarán y mejorarán los programas de promoción de la salud y prevención en EBAIS y clínicas, como prioridad nacional."
+    },
+    {
+      "categoria": "salud",
+      "pregunta": "¿Cómo se fortalecerá al Ministerio de Salud?",
+      "respuesta": "Se mejorarán sus capacidades rectoras, regulatorias y operativas, promoviendo la participación comunitaria en los programas de atención primaria."
+    },
+    {
+      "categoria": "salud-mental",
+      "pregunta": "¿Qué acciones se proponen para la prevención del consumo problemático de sustancias?",
+      "respuesta": "Se implementará el Sistema Nacional de Prevención de la Estrategia Nacional sobre Drogas con trabajo interinstitucional entre IAFA, ICD, MEP, PANI y el Ministerio de Salud."
+    },
+    {
+      "categoria": "salud-mental",
+      "pregunta": "¿Cómo se financiarán los programas de reducción de riesgos y daños?",
+      "respuesta": "Se propone oficializar por decreto la asignación de recursos provenientes de los impuestos a licores, cerveza y cigarrillos, para que financien también dispositivos de reducción de riesgos y daños."
+    },
+    {
+      "categoria": "salud",
+      "pregunta": "¿Qué relación tiene este plan con la vivienda y el entorno urbano?",
+      "respuesta": "El derecho a la salud se integra a la Política Nacional del Hábitat para asegurar que los entornos construidos favorezcan el bienestar y la salud comunitaria."
+    },
+    {
+      "categoria": "salud",
+      "pregunta": "¿Qué se propone para emergencias que requieren usar instalaciones privadas?",
+      "respuesta": "Se busca reglamentar cómo el Ministerio de Salud puede disponer de establecimientos privados en casos de emergencia, priorizando el derecho a la salud y la sostenibilidad del sistema público."
+    },
+    {
+      "categoria": "salud-mental",
+      "pregunta": "¿Cómo se abordará la salud mental?",
+      "respuesta": "Se priorizará la implementación de la Política Nacional de Salud Mental 2024-2034, con énfasis en determinantes sociales, perspectiva de género y desarrollo humano."
+    },
+    {
+      "categoria": "salud-mental",
+      "pregunta": "¿Qué temas de salud mental se consideran urgentes?",
+      "respuesta": "Se dará atención prioritaria a ansiedad, depresión, riesgo suicida, consumo de sustancias y patología dual, con coordinación entre todos los niveles del sistema de salud."
+    },
+    {
+      "categoria": "salud-mental",
+      "pregunta": "¿Qué propone el plan para la atención de adicciones?",
+      "respuesta": "Se fortalecerá el programa EISAA en la CCSS, promoviendo trabajo interdisciplinario e interinstitucional junto con IAFA, ICD, MEP y PANI."
+    },
+    {
+      "categoria": "prevencion-salud",
+      "pregunta": "¿Cómo se promoverán entornos saludables?",
+      "respuesta": "Se fomentarán espacios saludables en escuelas, trabajos, hogares y comunidades mediante campañas, alianzas interinstitucionales y programas de promoción."
+    },
+    {
+      "categoria": "prevencion-salud",
+      "pregunta": "¿Qué relación hay entre salud mental y espacios recreativos?",
+      "respuesta": "Se generarán encadenamientos con pymes para habilitar más espacios recreativos en zonas verdes y costeras, promoviendo salud mental y dinamizando la economía local."
+    },
+    {
+      "categoria": "trabajo",
+      "pregunta": "¿Qué cambios laborales se proponen para mejorar la salud en el trabajo?",
+      "respuesta": "Se impulsa el proyecto que garantiza el derecho a usar un asiento durante la jornada laboral, reduciendo riesgos físicos asociados a largas horas de pie."
+    }
 ]
