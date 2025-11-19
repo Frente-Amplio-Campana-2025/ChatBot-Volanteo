@@ -1,0 +1,843 @@
+[
+  {
+    "categoria": "asistencia-social",
+    "propuesta": "Queremos que más personas puedan recibir ayuda del Estado. Ya no solo quienes están en pobreza extrema, sino también personas en situación vulnerable: madres solas, adultos mayores sin familia, personas con discapacidad, comunidades rurales olvidadas. Esto está en la Ley 10705 que se publicó en mayo de 2025 y cambia el FODESAF para que sea más justo e inclusivo."
+  },
+  {
+    "categoria": "asistencia-social",
+    "propuesta": "Vamos a revisar a fondo cómo se decide quién recibe ayudas sociales. El sistema actual (SINIRUBE) funciona con algoritmos que nadie entiende y deja por fuera a mucha gente que realmente necesita apoyo. Queremos un proceso más transparente, donde las personas sepan por qué quedaron dentro o fuera de un programa."
+  },
+  {
+    "categoria": "pensiones",
+    "propuesta": "Todos los adultos mayores de 65 años que estén en pobreza o vulnerabilidad recibirán una pensión. Nadie debería llegar a esa edad sin tener con qué vivir dignamente."
+  },
+  {
+    "categoria": "pensiones",
+    "propuesta": "Las mujeres de 60 a 64 años que dedicaron su vida a cuidar a otros sin recibir salario recibirán una pensión especial. Es un reconocimiento al trabajo invisible que sostiene a tantas familias, mientras esperan llegar a los 65 años para la pensión regular."
+  },
+  {
+    "categoria": "pensiones",
+    "propuesta": "Daremos pensión a jóvenes y niños con discapacidad permanente (hasta 35 años), y también a personas con discapacidad que vivan en comunidades indígenas. Es para garantizar que puedan vivir con dignidad a pesar de las barreras que enfrentan."
+  },
+  {
+    "categoria": "educacion",
+    "propuesta": "Todo estudiante de escuela o colegio público que viva en pobreza o vulnerabilidad recibirá apoyo económico para seguir estudiando. No importa dónde viva, su nacionalidad, género o cultura. La plata no puede ser un obstáculo para la educación."
+  },
+  {
+    "categoria": "educacion",
+    "propuesta": "Los comedores escolares llegarán también a secundaria. Para muchos jóvenes, el comedor es la única garantía de comer bien al menos una vez al día. Extenderlo a la secundaria ayuda a que los chicos no abandonen el colegio por hambre."
+  },
+  {
+    "categoria": "trabajo",
+    "propuesta": "Llevaremos inspectores laborales a las zonas más pobres fuera del Gran Área Metropolitana, usando tecnología para identificar dónde hay más explotación laboral. Queremos llegar donde las personas trabajadoras están más desprotegidas y hacer que se respeten sus derechos."
+  },
+  {
+    "categoria": "cuido",
+    "propuesta": "Las madres que tienen a sus hijos en CECUDI tendrán prioridad para entrar a programas de empleo y capacitación como la Renta Mínima Feminizada y la Estrategia Puente. También ayudaremos a las familias a gestionar pensiones cuando estén cerca de la edad de jubilarse."
+  },
+  {
+    "categoria": "cuido",
+    "propuesta": "Conectaremos a madres jóvenes que usan los servicios de cuido infantil con oportunidades de estudio en el MEP, INA o universidades. La idea es que mientras sus hijos están en un lugar seguro, ellas puedan prepararse para tener mejores trabajos."
+  },
+  {
+    "categoria": "cuido",
+    "propuesta": "Vamos a mejorar el sistema de cuido infantil siguiendo las recomendaciones de la Contraloría. Queremos que más familias tengan acceso y que todos los servicios de cuido trabajen bien coordinados."
+  },
+  {
+    "categoria": "cuido",
+    "propuesta": "La Red de Cuido y los CEN-CINAI trabajarán juntos como un solo equipo, no como programas separados. Así será más fácil para las familias y los niños recibirán mejor atención."
+  },
+  {
+    "categoria": "cuido",
+    "propuesta": "Evaluaremos cada año cómo están funcionando los CECUDI y otros centros de cuido. Queremos asegurarnos de que el dinero se está usando bien y que los niños están recibiendo un buen servicio."
+  },
+  {
+    "categoria": "cuido",
+    "propuesta": "Crearemos un sistema donde familias vulnerables que no pueden pagar el cuido completo, pero tampoco califican para ayuda total, puedan pagar una parte. Así más familias podrán acceder a estos servicios empezando por los CECUDI municipales."
+  },
+  {
+    "categoria": "educacion",
+    "propuesta": "Fortaleceremos Avancemos (el programa que da dinero a familias para que sus hijos sigan estudiando) tanto en primaria como en secundaria. Le aseguraremos presupuesto fijo y haremos que funcione mejor."
+  },
+  {
+    "categoria": "educacion",
+    "propuesta": "Mejoraremos el paso de Avancemos Primaria a Avancemos Secundaria para que las familias más vulnerables no pierdan el apoyo cuando sus hijos entran al colegio."
+  },
+  {
+    "categoria": "educacion",
+    "propuesta": "Evaluaremos qué tan bien está funcionando Avancemos para saber si realmente está ayudando a los estudiantes más vulnerables a quedarse en la escuela."
+  },
+  {
+    "categoria": "educacion",
+    "propuesta": "Las familias de Avancemos también recibirán apoyo del programa Conectados (internet y computadoras) para que los estudiantes puedan hacer tareas y aprender mejor, especialmente en familias de pobreza extrema."
+  },
+  {
+    "categoria": "educacion",
+    "propuesta": "Reforzaremos la lucha contra el trabajo infantil usando Avancemos como herramienta principal. Ningún niño debería estar trabajando en lugar de estudiando."
+  },
+  {
+    "categoria": "poblaciones-vulnerables",
+    "propuesta": "Ampliaremos los programas de protección social (PSC) para llegar a más personas que necesitan ayuda urgente, especialmente víctimas de violencia o en situaciones de riesgo."
+  },
+  {
+    "categoria": "migracion",
+    "propuesta": "Haremos más fácil que las personas migrantes obtengan su DIMEX (documento de identidad). Un solo registro coordinado entre instituciones para que no tengan que hacer trámites repetidos en varios lugares."
+  },
+  {
+    "categoria": "poblaciones-vulnerables",
+    "propuesta": "Crearemos más espacios especializados para atender a adultos mayores y personas con discapacidad que viven en la calle. Lo haremos desde un enfoque de derechos humanos, con dignidad y respeto."
+  },
+  {
+    "categoria": "asistencia-social",
+    "propuesta": "Organizaremos campañas junto con empresas privadas y organizaciones para identificar mejor a las personas vulnerables y ayudarlas a acceder a los programas que necesitan."
+  },
+  {
+    "categoria": "poblaciones-vulnerables",
+    "propuesta": "Reorganizaremos el IAFA (Instituto de Alcoholismo y Drogadicción) para que atienda mejor a las personas en situación de calle con problemas de adicción, con enfoques más humanos y efectivos."
+  },
+  {
+    "categoria": "asistencia-social",
+    "propuesta": "Mejoraremos los procesos internos del área que da permisos a organizaciones sociales y de beneficencia, para que sea más fácil saber quién cumple requisitos y recibe apoyo del Estado."
+  },
+  {
+    "categoria": "poblaciones-vulnerables",
+    "propuesta": "Crearemos equipos en cada zona del país para identificar a personas abandonadas (adultos mayores, personas con discapacidad) y coordinar entre varias instituciones para ayudarlas antes de que terminen en la calle."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Haremos que la asistencia social sea un derecho oficial cambiando la ley del IMAS. Así ningún gobierno podrá quitarle ayudas a la gente por capricho."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Cambiaremos la ley de Avancemos para blindar su presupuesto y que ningún gobierno pueda recortar o cambiar el programa según sus intereses políticos."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Retomaremos un proyecto de ley (24.227) para obligar al gobierno a cumplir con los aportes al FODESAF. Si no pagan, habrá sanciones. Estos aportes se ajustarán según la inflación para que no pierdan valor."
+  },
+  {
+    "categoria": "trabajo",
+    "propuesta": "Aumentaremos las multas a los patronos que no pagan las cuotas de FODESAF. Esa plata es para financiar becas, pensiones y programas sociales, y quien no pague debe enfrentar consecuencias más duras."
+  },
+  {
+    "categoria": "educacion",
+    "propuesta": "Cambiaremos la ley de comedores escolares para que los estudiantes de secundaria en las zonas más pobres del país reciban comida gratis al 100%. Nadie debería estudiar con hambre."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "Construiremos un modelo de salud comunitaria donde la prevención y la participación de la gente sean lo más importante. La salud es un derecho humano fundamental."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "Actualizaremos todas las políticas de salud con un enfoque moderno de reducción de daños, basado en evidencia científica, derechos humanos y adaptado a nuestra realidad multicultural costarricense."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "El Ministerio de Planificación establecerá reglas claras sobre cómo diseñar políticas de salud a largo plazo, no solo planes de 4 años que cambian con cada gobierno."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "Lideraremos conversaciones nacionales para que todos nos pongamos de acuerdo en priorizar la salud pública comunitaria, atacando problemas de raíz como pobreza, falta de vivienda y desempleo, con especial atención en Puntarenas y Limón."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "La investigación científica será la base de todas las decisiones importantes en salud pública. Tomaremos decisiones basadas en datos, no en políticas o creencias."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "Actualizaremos todos los estudios sobre la salud de cada región del país para tener información fresca y poder adaptar los programas a lo que cada zona realmente necesita."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "Le daremos más importancia y presupuesto al primer nivel de atención (EBAIS y clínicas). La idea es prevenir enfermedades antes de que la gente tenga que llegar al hospital."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "Crearemos Comités de Salud Comunitaria y Consejos de Salud en cada distrito para que la gente participe directamente en las decisiones de salud de su comunidad, trabajando junto con las Juntas de Salud."
+  },
+  {
+    "categoria": "prevencion-salud",
+    "propuesta": "Haremos de la prevención y promoción de la salud una prioridad nacional en todos los EBAIS y clínicas. Prevenir es mejor y más barato que curar."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "Fortaleceremos al Ministerio de Salud para que pueda ejercer mejor su papel de regular y supervisar todo el sistema de salud del país, con participación activa de las comunidades."
+  },
+  {
+    "categoria": "salud-mental",
+    "propuesta": "Pondremos en marcha el Sistema Nacional de Prevención de Drogas con trabajo conjunto entre IAFA, ICD, MEP, PANI y el Ministerio de Salud. La prevención empieza en la escuela."
+  },
+  {
+    "categoria": "salud-mental",
+    "propuesta": "Destinaremos parte de los impuestos a licores, cerveza y cigarrillos a programas de reducción de daños por drogas, no solo a centros de rehabilitación tradicionales."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "El derecho a la salud será parte central de la Política Nacional de Vivienda. Una casa digna es parte de la salud."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "En emergencias, el Ministerio de Salud podrá usar hospitales y clínicas privadas cuando sea necesario para salvar vidas, pero siempre protegiendo el sistema público y sin abusos de costos."
+  },
+  {
+    "categoria": "salud-mental",
+    "propuesta": "Ejecutaremos la Política Nacional de Salud Mental 2024-2034 como prioridad, atacando las causas sociales de los problemas mentales y con perspectiva de género."
+  },
+  {
+    "categoria": "salud-mental",
+    "propuesta": "Daremos atención prioritaria a ansiedad, depresión, riesgo de suicidio, adicciones y otros problemas mentales graves, conectando clínicas con hospitales para atención completa."
+  },
+  {
+    "categoria": "salud-mental",
+    "propuesta": "Fortaleceremos los equipos especializados en adicciones (EISAA) dentro de la CCSS, trabajando de la mano con IAFA, ICD, MEP y PANI para atender mejor a quienes luchan contra las drogas."
+  },
+  {
+    "categoria": "prevencion-salud",
+    "propuesta": "Promoveremos espacios saludables en escuelas, trabajos, hogares y comunidades con campañas educativas y coordinación entre instituciones."
+  },
+  {
+    "categoria": "prevencion-salud",
+    "propuesta": "Apoyaremos a pequeñas y medianas empresas que creen espacios de recreación en parques y playas, porque los espacios verdes son buenos para la salud mental y la economía local."
+  },
+  {
+    "categoria": "trabajo",
+    "propuesta": "Impulsaremos la 'Ley Sila' para que todas las personas trabajadoras tengan derecho a usar una silla durante su jornada laboral. Nadie debería arruinar su espalda por trabajar de pie todo el día."
+  },
+  {
+    "categoria": "prevencion-salud",
+    "propuesta": "Las empresas y el gobierno trabajarán juntos en promoción de la salud desde los consultorios médicos de las empresas, enfocándose en prevenir el abuso de alcohol y drogas."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "Regularemos mejor el uso de agroquímicos en el campo y nos aseguraremos de que todos los trabajadores agrícolas usen equipo de protección. Demasiada gente se enferma por químicos peligrosos."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "Crearemos un programa de salud escolar donde profesionales de salud trabajen directamente en colegios y escuelas cuidando la salud de niños y adolescentes."
+  },
+  {
+    "categoria": "salud-mental",
+    "propuesta": "Modernizaremos el IAFA para que ofrezca más opciones de tratamiento, no solo los modelos tradicionales, sino también enfoques basados en evidencia científica, derechos humanos y adaptados a nuestra realidad latinoamericana."
+  },
+  {
+    "categoria": "salud-mental",
+    "propuesta": "Pondremos énfasis especial en el alcoholismo, que es el problema de drogas más grande del país. También crearemos más centros especializados para mujeres, menores de edad, adultos mayores y personas con discapacidad."
+  },
+  {
+    "categoria": "salud-mental",
+    "propuesta": "Reforzaremos los programas de prevención de drogas para chicos entre 10-14 años y 17 años, que son las edades más críticas cuando empiezan a experimentar."
+  },
+  {
+    "categoria": "educacion",
+    "propuesta": "Aseguraremos el financiamiento de los comedores escolares y promoveremos comida saludable, comprando a pequeños productores locales para apoyar también a agricultores costarricenses."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "Los colegios profesionales participarán en evaluar la calidad de los graduados en salud y habrá recertificaciones periódicas para asegurar que todos los profesionales se mantengan actualizados."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "Capacitaremos al personal de salud en LESCO (lenguaje de señas) y otras formas de comunicación alternativa para que puedan atender bien a personas sordas, con discapacidad auditiva y de comunidades indígenas."
+  },
+  {
+    "categoria": "prevencion-salud",
+    "propuesta": "Fortaleceremos el ICODER (Instituto del Deporte) como promotor de salud a través del deporte y la recreación."
+  },
+  {
+    "categoria": "cuido",
+    "propuesta": "Garantizaremos el dinero necesario para ejecutar la Política Nacional de Cuidados 2021-2031, con el IMAS coordinando todo el sistema de cuido y apoyo a personas dependientes."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "Reglamentaremos rápido la ley que permite producir medicamentos genéricos cuando hay emergencias de salud pública, para que no dependamos solo de medicinas caras de marca."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "Los gerentes de la CCSS serán nombrados con criterios técnicos claros de idoneidad y transparencia, y tendrán que rendir cuentas de su trabajo."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "Las Juntas de Salud se convertirán en verdaderas auditorías ciudadanas. Tendrán acceso a la información y participarán en definir presupuestos y prioridades de los centros de salud."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "Auditaremos el sistema SAP de la CCSS para ver si está funcionando bien o si está causando problemas en la atención y las finanzas."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "Ampliaremos los cupos para formar más especialistas médicos trabajando con el CENDEISSS. La falta de especialistas es un problema que hay que resolver a mediano y largo plazo con planificación seria."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "Haremos una auditoría nacional para saber cuánto personal de salud necesita cada hospital y clínica, tanto profesionales como técnicos, para dar atención de calidad."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "Ampliaremos los horarios de atención en hospitales y clínicas aprovechando la infraestructura que ya tenemos, contratando personal en jornadas extraordinarias pero asegurando equipos completos."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "Mejoraremos la coordinación entre departamentos de los hospitales (consulta, laboratorio, imágenes médicas, etc.) para que los pacientes no tengan que dar tantas vueltas."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "Facilitaremos que los profesionales de salud puedan hacer investigación sin que sea una carga extra, creando el puesto oficial de profesional investigador."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "Priorizaremos la construcción de hospitales nuevos fuera del Gran Área Metropolitana: el Hospital de Cartago, Limón, Guápiles y otros que urgen en las regiones."
+  },
+  {
+    "categoria": "prevencion-salud",
+    "propuesta": "La prevención será prioridad nacional. También educaremos a la población sobre cómo usar bien los servicios de salud para no saturarlos innecesariamente."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "Mejoraremos las condiciones laborales del personal de la CCSS (médicos, enfermeras, nutricionistas, psicólogos, etc.) con mesas de trabajo para crear estrategias sostenibles que mejoren el ambiente laboral."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "Reconoceremos y premiaremos al personal que continúe estudiando y actualizándose, porque un personal más preparado da mejor atención."
+  },
+  {
+    "categoria": "pensiones",
+    "propuesta": "Seguiremos con el juicio que el Frente Amplio presentó para que el Estado le pague su deuda al fondo de pensiones (IVM). El Estado debe cumplir con sus obligaciones."
+  },
+  {
+    "categoria": "pensiones",
+    "propuesta": "Las personas trabajadoras podrán pedir préstamos del fondo de pensiones de la Caja para comprar vivienda o generar patrimonio, a plazos más largos y combinados con el bono de vivienda."
+  },
+  {
+    "categoria": "pensiones",
+    "propuesta": "Buscaremos nuevas fuentes de dinero para ampliar las pensiones del Régimen No Contributivo (para quienes nunca cotizaron), tanto en cantidad de beneficiarios como en el monto que reciben."
+  },
+  {
+    "categoria": "pensiones",
+    "propuesta": "Los fondos de pensiones (IVM, JUPEMA y otros) podrán invertir en obras públicas como una forma de hacer crecer el dinero de las pensiones."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Seguiremos impulsando la ley que prohíbe las mal llamadas 'terapias de conversión' que intentan cambiar la orientación sexual de personas LGBTI. Esas prácticas son tortura, no terapia."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Impulsaremos la ley contra la contaminación sonora para regular el ruido excesivo que afecta la salud mental y física de las personas."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Aprobaremos la ley para aumentar el presupuesto en salud mental. Es urgente porque cada vez más gente necesita apoyo psicológico y psiquiátrico."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Impulsaremos la 'Ley Sila' que garantiza el derecho a sentarse durante la jornada laboral. Es un tema de salud y dignidad."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Aprobaremos la Ley de Licencia Menstrual para que mujeres y personas menstruantes puedan descansar cuando tienen dolores muy fuertes. También aplicará para estudiantes."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Regularemos la fumigación aérea con químicos para proteger a las comunidades que viven cerca de plantaciones donde fumigan con avionetas."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Crearemos la Pedagogía Hospitalaria: maestros del MEP que darán clases a niños y adolescentes que están internados en hospitales para que no pierdan el año escolar."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Promoveremos y protegeremos la lactancia materna en todos los espacios: trabajos, escuelas, hasta en cárceles de mujeres. La leche materna es el mejor alimento para bebés."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Retomaremos el proyecto de ley para poner impuestos más altos a productos ultraprocesados (chatarra) y así desincentivar su consumo mientras apoyamos a productores agrícolas nacionales."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Haremos obligatorio el etiquetado claro en alimentos que tengan mucha azúcar, grasas o transgénicos, para que la gente sepa qué está comiendo y pueda decidir mejor."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Crearemos el Día Nacional de la Persona Cuidadora para reconocer a quienes dedican su vida a cuidar adultos mayores y personas con discapacidad."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Quitaremos el IVA a todos los medicamentos y su producción para que sean más baratos y accesibles para toda la población."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Permitiremos que cada persona pueda cultivar cannabis en su casa para uso personal medicinal o recreativo, protegiendo salud pública y derechos humanos."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Incluiremos en la Constitución los principios de equidad, igualdad, solidaridad y universalidad como base inquebrantable de la CCSS."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Cambiaremos la Junta Directiva de la CCSS para que ya no sea el Presidente quien nombre a su presidente. Debe ser más independiente del gobierno de turno."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Crearemos criterios claros de idoneidad para los gerentes de la CCSS: no podrán repetir más de dos períodos seguidos ni estar bajo investigación por corrupción."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Retomaremos el proyecto de ley 21066 para proteger el carácter público y solidario de la CCSS, frenando su privatización y mercantilización. No más compras irregulares de servicios a privados."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "El Ministerio de Salud podrá contratar especialistas temporalmente cuando haya escasez grave que ponga en riesgo la salud de la población."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Crearemos sanciones penales para médicos que hacen 'biombos' (debilitan la CCSS para luego referir pacientes a sus clínicas privadas). Eso es corrupción y afecta a miles de personas."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Reformaremos la ley de investigaciones médicas para que sea más fácil hacer investigación cualitativa y con enfoque comunitario, no solo estudios de laboratorio."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Aprobaremos urgente la ley del Frente Amplio (24859) para que el Estado le pague su deuda a la CCSS en 20 años. Es dinero que le pertenece al pueblo."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Las deudas por cuotas obreras y patronales de la CCSS nunca prescribirán. Si un patrono no pagó hace 10 años, seguirá debiendo hasta que pague."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Los impuestos al tabaco y cigarrillos electrónicos irán directo a la CCSS para financiar atención de enfermedades relacionadas con el fumado."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Para comprar un seguro médico privado en Costa Rica, primero deberás estar al día con la CCSS. No puedes tener seguro de lujo si no contribuyes al sistema público."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Las pensiones se pagarán mensualmente pero con adelanto quincenal para que los adultos mayores tengan plata disponible dos veces al mes."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Crearemos impuestos a productos ultraprocesados para desincentivar su consumo y usar ese dinero para fortalecer el fondo de pensiones de la CCSS."
+  }, 
+
+
+
+
+
+
+
+
+  
+  {
+    "categoria": "pensiones",
+    "propuesta": "Pensión universal para población mayor de 65 años en condición de pobreza y vulnerabilidad."
+  },
+  {
+    "categoria": "pensiones",
+    "propuesta": "Pensión universal para mujeres entre 60 y 64 años que se hayan dedicado al cuido como reconocimiento a su trabajo no remunerado y para garantizar su bienestar en la etapa adulta (antesala para pensión de 65 y más)."
+  },
+  {
+    "categoria": "pensiones",
+    "propuesta": "Pensión a niñas, niños y jóvenes de hasta 35 años con discapacidad permanente, así como a personas con discapacidad de 0 a 64 años que vivan en comunidades indígenas."
+  },
+  {
+    "categoria": "educacion",
+    "propuesta": "Transferencias monetarias directas y apoyos escalonados a la población en condición de pobreza, pobreza extrema y vulnerabilidad que se encuentra en el sistema educativo público, sin distingo de territorio, edad, género, etnia, nacionalidad, cultura, o cualquier condición social."
+  },
+  {
+    "categoria": "educacion",
+    "propuesta": "Universalización del servicio de comedores escolares tutelado bajo el Programa de Alimentación y Nutrición Escolar y Adolescente (PANEA) del MEP, para que la población estudiantil de I ciclo, educación diversificada y técnica (secundaria) del sistema de educación pública en condición de pobreza extrema, pobreza y vulnerabilidad accedan a dicho servicio alimentario."
+  },
+  {
+    "categoria": "trabajo",
+    "propuesta": "Generar procesos de intervención de la inspección laboral en los territorios, mediante el uso de las herramientas de inteligencia de datos y geolocalización, con atención en las regiones fuera del GAM con menor índice de Desarrollo Humano, con el objetivo de modificar condiciones de vulnerabilidad y violación de derechos laborales en coordinación con las inspecciones laborales del MTSS."
+  },
+  {
+    "categoria": "cuido",
+    "propuesta": "Priorizar a madres de niños y niñas beneficiadas de los CECUDIS para el ingreso a la Estrategia de Renta Mínima Feminizada y el ingreso a la Estrategia Puente, para ampliar las condiciones de protección y promoción aunada a fortalecer capacidades y condiciones para la inserción laboral de las mujeres. Identificar a madres y personas en familias beneficiadas que se encuentren en edad de pensionarse, para brindar opciones a través del régimen no contributivo y otros mecanismos dentro del MTSS, en especial, por su condición de población objetivo."
+  },
+  {
+    "categoria": "cuido",
+    "propuesta": "Generar un programa de interconexión de madres jóvenes que se ven beneficiadas del sistema de Cuidados y Desarrollo infantil, a las iniciativas de estudio del MEP, INA o universidades públicas y privadas, con el objetivo de fortalecer la inserción educativa. Este programa busca un proceso continuo de identificación y colocación por parte de IMAS, MTSS y PANI de dichas madres en los espacios educativos, tomando en cuenta que esta acción trasciende las acciones realizadas en la Estrategia Puente al Desarrollo."
+  },
+  {
+    "categoria": "cuido",
+    "propuesta": "Atender recomendaciones formuladas por la Contraloría General de la República con el fin de garantizar acceso universal al programa, mejorar la articulación de los distintos actores y modalidades de cuido (Informe DFOESOC-IF 18-2015)."
+  },
+  {
+    "categoria": "cuido",
+    "propuesta": "Mejorar la coordinación y el trabajo mancomunado de la red de cuido con los Centros de Educación y Nutrición (CEN) y los Centros Infantiles de Nutrición y Atención Integral (CINAI), CEN-CINAI."
+  },
+  {
+    "categoria": "cuido",
+    "propuesta": "Consolidar evaluaciones anuales a las CECUDIS e iniciativas privadas, mediante procesos e instrumentos estandarizados de evaluación por resultados para el desarrollo, que indagan eficiencia, eficacia, cambios y sostenibilidad, para lograr un proceso de control y mejoramiento de las acciones institucionales de la Red Nacional de Cuidado y Desarrollo Infantil."
+  },
+  {
+    "categoria": "cuido",
+    "propuesta": "Establecer un modelo de pago compartido, para ampliar la población beneficiaria, incluyendo a hogares en condición de vulnerabilidad que requieren de servicios de cuido y no cuentan con recursos para sufragar ese servicio por su cuenta, pero que actualmente están excluidos de la Red, priorizando inicialmente el desarrollo de este modelo a través de los CECUDI Municipales."
+  },
+  {
+    "categoria": "educacion",
+    "propuesta": "Reforzaremos y profundizaremos los programas Avancemos Primaria y Avancemos Secundaria, mediante el aseguramiento presupuestario y la búsqueda de una gestión más eficiente de las transferencias monetarias condicionadas."
+  },
+  {
+    "categoria": "educacion",
+    "propuesta": "Mejorar los procesos de trazabilidad de Avancemos Primaria hacia Avancemos Secundaria, en las familias de mayores vulnerabilidades."
+  },
+  {
+    "categoria": "educacion",
+    "propuesta": "Generar un proceso de evaluación de resultados tanto para Avancemos primaria como Avancemos secundaria, para dar cuenta de las condiciones de aplicación del beneficio en las poblaciones vulnerabilizadas."
+  },
+  {
+    "categoria": "educacion",
+    "propuesta": "Incluir a las familias beneficiarias de Avancemos con el programa Conectados, para un desarrollo de condiciones óptimas en el estudio, con especial atención, en aquellas familias de pobreza extrema."
+  },
+  {
+    "categoria": "educacion",
+    "propuesta": "Profundizar las acciones contra el trabajo infantil para lograr una eliminación definitiva de dicho problema social, aunado al fortalecimiento de la inclusión y sostenibilidad de niños, niñas y adolescentes en el sistema educativo, mediante las transferencias condicionadas de Avancemos en primaria y secundaria."
+  },
+  {
+    "categoria": "poblaciones-vulnerables",
+    "propuesta": "Ampliar la cobertura de las modalidades existentes o creación de nuevas alternativas conforme a los procesos y requerimientos del protocolo de atención del PSC."
+  },
+  {
+    "categoria": "migracion",
+    "propuesta": "Implementar una estrategia simplificada para la obtención de documento migratorio DIMEX, mediante un registro unificado interinstitucional de los documentos migratorios."
+  },
+  {
+    "categoria": "poblaciones-vulnerables",
+    "propuesta": "Ampliar la cobertura de las modalidades que se especialicen en la atención de PAM y persona con discapacidad en situación de calle, desde un enfoque de derechos humanos y de intervención pública."
+  },
+  {
+    "categoria": "asistencia-social",
+    "propuesta": "Generar campañas de coordinación público-privado de registro de información mediante la aplicación de la FIS."
+  },
+  {
+    "categoria": "poblaciones-vulnerables",
+    "propuesta": "Reorganizar la estructura de beneficios y programas del IAFA para generar cambios en las formas de atención y enfoques de la población en situación de calle."
+  },
+  {
+    "categoria": "asistencia-social",
+    "propuesta": "Reordenamiento del Área de Acción Social y Administración de Instituciones de Bienestar Social, con el fin de mejorar los procesos internos, estandarizar procesos y orientar de mejor manera la asignación de beneficios a organizaciones de bienestar social que cumplan con los requisitos requeridos."
+  },
+  {
+    "categoria": "poblaciones-vulnerables",
+    "propuesta": "Generar un proceso de identificación social de las personas en situación de abandono mediante una estrategia de coordinación multisectorial y público privado a nivel territorial que permita identificar a estas personas y promover una atención interinstitucional."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Declaración y operacionalización de la asistencia social como un derecho por medio de la modificación de la Ley Constitutiva del IMAS (Ley 4760)."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Modificación de la Ley Avancemos (Ley 9617) para garantizar su soporte presupuestario y asegurar las condiciones del subsidio sin que medien cambios provenientes de los gobiernos de turno (esto significa el impulso al proyecto de ley expediente N.º 24.227, propuesto por Jonathan Acuña)."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Recuperación del proyecto de ley expediente N.º 24.227, Ley para Evitar la Disminución del Aporte del Poder Ejecutivo al Fondo de Desarrollo Social y Asignaciones Familiares, con el objetivo de frenar el incumplimiento del monto mínimo aportado por el Poder Ejecutivo al Fondo de Desarrollo Social y Asignaciones Familiares, sujetar dicha inversión a la variación del índice de precios al consumidor y sancionar de manera el incumplimiento de lo anterior."
+  },
+  {
+    "categoria": "trabajo",
+    "propuesta": "Modificación del 'Reglamento para el Cobro de Patronos Morosos del Fondo de Desarrollo Social y Asignaciones Familiares', con el fin de aumentar las multas y sanciones."
+  },
+  {
+    "categoria": "educacion",
+    "propuesta": "Modificación de la ley 9435 sobre comedores escolares, para garantizar la cobertura de subsidio de comedor de 100% para la población estudiantil en secundaria, principalmente en instituciones educativas que se encuentren en distritos o regiones en los deciles más pobres de la población."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "Generar un Estado de bienestar mediante un modelo de producción social de la salud pública comunitaria, como base del desarrollo humano, desde un enfoque de derechos humanos."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "Actualizar políticas públicas desde un paradigma de salud de reducción de riesgos y daños de amplio espectro, desde el sur global descolonizado, situado en nuestra realidad pluricultural y multiétnica, basadas en evidencia científica vernácula, derechos humanos, salud pública comunitaria y espíritu autóctono descolonizado."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "Generar directrices, reglas y actualizaciones desde el Ministerio de Planificación, sobre el diseño de las políticas de salud y seguridad, especialmente en los procesos de evaluación de indicadores, financiamiento y seguimiento como política nacional sostenida y no cuatrienal de corto impacto."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "Liderar la discusión nacional, para generar acuerdos en el cumplimiento del contrato social con la salud pública comunitaria. Las políticas de salud pública comunitaria deben incluir prevención primaria del sufrimiento psicosocial, que atienda factores de riesgo de carácter estructural: pobreza, exclusión social, carencia de vivienda digna y desempleo, con énfasis territorial en Puntarenas y Limón."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "Impulsar la investigación cualitativa y cuantitativa como insumo científico principal en la toma de decisiones estratégicas en la formulación de políticas públicas de salud comunitaria de la población."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "Realizar una actualización del análisis sectorial en salud a nivel nacional, así como una campaña de actualización participativa de los Análisis de Situación de Salud (ASIS), en cada área de salud, con el fin de contar con datos actualizados respecto de las condiciones de salud de la población y adaptar las políticas públicas a la realidad de cada región."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "Reestructurar el primer nivel de atención de la CCSS y del Sistema Nacional de Salud, de manera que se generen indicadores que permitan el cumplimiento y la medición de resultados, con el fin de dar mayor importancia y presupuesto a un modelo participativo de promoción de la salud y prevención de la enfermedad."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "Promover la formación de Comités de Salud Comunitaria y Consejos Distritales de Salud, según la capacidad organizativa comunal, los cuales funcionarán como articuladores de la diversidad de actores sociales interesados en la salud comunitaria y gozarán de plena autonomía e independencia popular, de la mano de las Juntas de Salud."
+  },
+  {
+    "categoria": "prevencion-salud",
+    "propuesta": "Establecer como prioridad nacional la consolidación y mejora permanente de los programas de promoción de la salud y de salud preventiva en el fortalecimiento del primer nivel de atención en salud (EBAIS y clínicas de salud)."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "Fortalecer las capacidades operativas del Ministerio de Salud para ejercer sus potestades rectoras, regulatorias y de regencia en todo el territorio nacional, contemplando la participación de las comunidades como parte central de la acción de los programas de atención primaria."
+  },
+  {
+    "categoria": "salud-mental",
+    "propuesta": "Ejecutar el Sistema Nacional de Prevención contemplado en la Estrategia Nacional sobre Drogas y Delitos Asociados 2020-2030, desde un trabajo interinstitucional entre el Instituto sobre Alcoholismo y Farmacodependencia (IAFA), el Instituto Costarricense sobre Drogas (ICD), el MEP, el PANI y las áreas rectoras del Ministerio de Salud."
+  },
+  {
+    "categoria": "salud-mental",
+    "propuesta": "Oficializar mediante decreto la asignación de recursos a los dispositivos de Reducción de Riesgos y Daños (RRDD). El objetivo es que los RRDD se beneficien de las transferencias de la Ley 7972 (cargas tributarias a licores, cerveza y cigarrillos), recursos que actualmente se destinan de manera exclusiva a centros de tratamiento residenciales centrados en la abstinencia."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "Integrar la importancia del derecho a la salud como un eje esencial en la Política Nacional del Hábitat."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "Reglamentar de manera clara la potestad del Ministerio de Salud de disponer de establecimientos privados en casos de emergencia, tal como está estipulado en el artículo 368 de la Ley General de Salud, de manera que se respete prioritariamente el derecho a la salud de la población, en primera instancia, y la sostenibilidad del sistema público, en segunda, con atención de costos y sin perjuicio de las instituciones privadas."
+  },
+  {
+    "categoria": "salud-mental",
+    "propuesta": "Priorizar la ejecución de estrategias de salud mental para atender las crecientes necesidades de la población consignadas en la Política Nacional de Salud Mental 2024-2034, con énfasis en la atención de los determinantes sociales de la salud, con perspectiva de género y desde un enfoque de desarrollo humano."
+  },
+  {
+    "categoria": "salud-mental",
+    "propuesta": "Establecer como prioridad, dentro de la estrategia nacional, la atención de la ansiedad, depresión, riesgo suicida, consumo de sustancias psicoactivas y patología dual, con articulación interinstitucional entre el primer y tercer nivel de atención, con abordaje interdisciplinar."
+  },
+  {
+    "categoria": "salud-mental",
+    "propuesta": "Fortalecer la creación y seguimiento del programa de Equipos Interdisciplinarios en Salud para la Atención de Adicciones (EISAA) dentro de la Red de Servicios de la CCSS, fomentando el trabajo interinstitucional con instituciones como IAFA, ICD, MEP, PANI y las áreas rectoras de salud."
+  },
+  {
+    "categoria": "prevencion-salud",
+    "propuesta": "Promover la creación de entornos saludables y armoniosos en todos los ámbitos: escuelas, colegios, universidades, entorno laboral, hogares, comunidad y mediante campañas informativas y coordinaciones intergubernamentales e intersectoriales."
+  },
+  {
+    "categoria": "prevencion-salud",
+    "propuesta": "Generar estrategias de encadenamientos con pequeños y medianos empresarios que promuevan espacios de recreación en zonas verdes y costeras, como ambientes que favorezcan la salud mental y estimulen la economía."
+  },
+  {
+    "categoria": "trabajo",
+    "propuesta": "Impulsar el proyecto de ley, expediente 24.935, el cual busca adicionar dos incisos al Código de Trabajo (Ley 2) para reconocer como derecho laboral el uso de asientos durante la jornada laboral."
+  },
+  {
+    "categoria": "prevencion-salud",
+    "propuesta": "Propiciar espacios de gestión colaborativa entre instituciones públicas y empresas privadas, para la promoción de la salud desde los consultorios médicos empresariales, con énfasis en disminución de riesgo del consumo y detección temprana en uso de sustancias psicoactivas."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "Regular mediante reglamentación la inspección del Ministerio de Salud y la reducción del uso de agroquímicos a nivel agropecuario y, mediante decreto, asegurar el uso de equipo de protección personal por parte de todas las personas empleadas en estas funciones."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "Promover la creación de un programa de salud escolar y de la persona adolescente, desde una integración interinstitucional e intersectorial que permita la participación de profesionales de salud."
+  },
+  {
+    "categoria": "salud-mental",
+    "propuesta": "Realizar una actualización del modelo de intervención de IAFA, que amplíe su espectro de intervención en prevención, tratamiento y seguimiento, tanto desde paradigmas tradicionales, centrados en la moral, lo biomédico y lo jurídico, como desde paradigmas centrados en la evidencia científica y de la experiencia actual, los derechos humanos, la salud pública comunitaria y una visión latinoamericanista descolonizada, con miras a ofrecer buenas prácticas clínicas situadas a la población beneficiaria."
+  },
+  {
+    "categoria": "salud-mental",
+    "propuesta": "Enfatizar intervenciones centradas en el uso excesivo de alcohol, por ser la droga de mayor uso en Costa Rica. Además, fomentar la igualdad real de acceso a los servicios residenciales de tratamiento, aumentando el número de centros especializados para mujeres, personas menores de edad, adultas mayores y personas con capacidades disminuidas."
+  },
+  {
+    "categoria": "salud-mental",
+    "propuesta": "Fortalecer el acompañamiento programático en la población menor de edad, mediante programas de prevención de uso de drogas, en los primeros años (10-14) y últimos años de secundaria (17), pues son los de mayor riesgo de inicio en el uso de drogas."
+  },
+  {
+    "categoria": "educacion",
+    "propuesta": "Fortalecer el programa de comedores escolares de manera que se asegure su financiamiento y se promuevan los principios de nutrición saludable, con encadenamientos productivos a pequeños y medianos productores, de acuerdo con el plan de reestructuración del Consejo Nacional de Producción (CNP) y su objetivo de coordinar la producción agropecuaria orientada hacia el mercado doméstico."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "Involucrar a los colegios profesionales en los procesos de evaluación de la calidad y certificación de las personas graduadas del área de salud, así como incentivar la creación de mecanismos de recertificación profesional, lo que permitirá mejorar los estándares de calidad y, con ello, la protección y seguridad de la salud humana."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "Capacitar en el Lenguaje de Señas Costarricense (LESCO) y otras formas de comunicación alternativa, mediante programas virtuales del Centro de Desarrollo Estratégico e Información en Salud y Seguridad Social (CENDEISSS), en el caso del personal de la CCSS, y mediante plataformas tecnológicas pertinentes, en el caso del personal de otros centros e instituciones de salud. Se debe avanzar para garantizar que, en los diferentes centros de salud del país, exista personal capacitado y medidas de comunicación que permitan una atención adecuada a todas las poblaciones, con capacitaciones en lenguas indígenas en los centros de salud con atención directa a esta población y los que corresponda, según las redes de integración del sistema nacional de atención."
+  },
+  {
+    "categoria": "prevencion-salud",
+    "propuesta": "Fortalecer el papel social y de promoción de la salud del Instituto Costarricense del Deporte y la Recreación (ICODER)."
+  },
+  {
+    "categoria": "cuido",
+    "propuesta": "Garantizar el financiamiento a los programas contemplados en la Política Nacional de Cuidados 2021-2031, así como la adecuada ejecución desde el Instituto Mixto de Ayuda Social (IMAS) como ente coordinador del Sistema Nacional de Cuidados y Apoyos y de atención a la dependencia."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "Asegurar la pronta reglamentación de la Ley 10511 propuesta por el Frente Amplio para la modificación a la Ley de patentes, de manera que se pueda levantar la exclusividad por temas de salud pública."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "Fortalecer los criterios de idoneidad y transparencia en los nombramientos de las gerencias de la Caja (CCSS), su designación y la rendición de cuentas de su desempeño."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "Fortalecer las Juntas de Salud, convirtiéndolas en verdaderas auditorías ciudadanas a las que deberán rendir cuentas de forma directa las autoridades de los centros de salud. Esas juntas tendrán acceso inmediato a la información y deberán ser consultadas en la definición de presupuestos y prioridades de inversión."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "Solicitar una auditoría sobre la implementación del sistema de planificación de recursos ERP-SAP, de manera que se hagan las revisiones pertinentes que permitan el adecuado control de los procesos administrativos institucionales, sin perjuicio de la atención ni de las finanzas institucionales, asegurando una transición adecuada entre los cambios de sistemas, que permita continuidad, en respeto a los criterios técnicos."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "Implementar una estrategia en coordinación con el CENDEISSS, para ampliar los cupos y el proceso de formación de especialistas, con el fin de dar una solución permanente, en el mediano plazo, a la problemática de la falta de especialistas, con criterios objetivos académicos y de calidad, con proyección y enfoque a largo plazo."
+  },
+  {
+    "categoria": "salud-personal",
+    "propuesta": "Realizar una auditoría nacional sobre las necesidades de recurso humano de cada institución, con el fin de garantizar la atención de calidad, tanto en perfiles profesionales como técnicos."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "Ampliar horarios de atención en los centros de salud, aprovechando la capacidad instalada de los hospitales y contratando personal en horario extraordinario (jornadas de producción), de manera articulada, para asegurar que se cuente con los equipos completos de atención y que esto no represente un desperdicio de recursos."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "Mejorar la coordinación entre los departamentos de los centros de salud (consulta externa, imágenes médicas, servicios de apoyo, laboratorio, etc.) en la atención de las personas pacientes."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "Revisar los criterios establecidos para la práctica investigativa por parte de profesionales en salud, de manera que cuenten con apoyo institucional y puedan adoptarse medidas que fomenten la realización de proyectos sin que esto signifique una carga adicional, mediante la regulación del puesto de profesional investigadora."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "Fomentar el avance de los proyectos de construcción e inversión, con énfasis prioritario en las zonas fuera de la GAM, enfocando esfuerzos en proyectos como la construcción del nuevo Hospital de Cartago, el Hospital de Limón, el Hospital de Guápiles, entre otros."
+  },
+  {
+    "categoria": "prevencion-salud",
+    "propuesta": "Priorizar las estrategias de prevención y promoción de la salud, así como la educación a la población en general sobre el uso adecuado de los servicios de salud."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "Mejorar las condiciones laborales del personal de salud de la CCSS, con mesas de trabajo que involucren a los distintos sectores (médicas y médicos especialistas, generales, profesionales en enfermería, nutrición, psicología, entre otros), donde se trabaje en conjunto, asegurando una estrategia que sea sostenible y que fomente un ambiente laboral idóneo."
+  },
+  {
+    "categoria": "salud",
+    "propuesta": "Generar estrategias de reconocimiento sobre la educación continua, con el fin de estimular al personal de salud a que continúe su formación académica y actualización de conocimientos y destrezas."
+  },
+  {
+    "categoria": "pensiones",
+    "propuesta": "Continuar con todas las medidas pertinentes para garantizar el financiamiento del seguro de pensiones, como el proceso de juicio contencioso administrativo presentado por el Frente Amplio para que el Estado indemnice al Seguro de Pensiones de Invalidez, Vejez y Muerte (IVM) por el incumplimiento de esta obligación."
+  },
+  {
+    "categoria": "pensiones",
+    "propuesta": "Establecer préstamos con base en el fondo de pensiones de la Caja para personas trabajadoras, de manera que se puedan utilizar como préstamos para vivienda y, en general, para actividades que puedan generar patrimonio de las y los trabajadores. Los préstamos hipotecarios deben concederse a plazos más amplios que los actuales y vincularse con el bono de la vivienda, cuando corresponda."
+  },
+  {
+    "categoria": "pensiones",
+    "propuesta": "Desarrollar una exploración de fuentes alternativas para dar sostenibilidad y ampliación de las pensiones del Régimen No Contributivo (RNC), tanto en cobertura como en suficiencia monetaria de la pensión."
+  },
+  {
+    "categoria": "pensiones",
+    "propuesta": "Impulsar la creación de mecanismos que permitan al Régimen de Invalidez, Vejez y Muerte (IVM), al administrado por la Junta de Pensiones y Jubilaciones del Magisterio Nacional (JUPEMA) y a otros fondos de pensiones, invertir de manera efectiva en obra pública."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Continuar con la gestión del expediente N.º 20970, Ley para Prohibir Todas Aquellas 'Terapias' Dirigidas a Revertir o Modificar con Fines de Pretendida 'Curación' la Orientación Sexual de las Personas LGBTI."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Continuar con la gestión del proyecto de ley expediente N.º 24507 Ley para Modernizar la Ley General de Salud en Materia de Contaminación Sonora y Promover los Sonoros Positivos."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Continuar con el trámite del expediente N.º 24520 Ley para Aumentar el Presupuesto que Invierte el Estado en la Atención de la Salud Mental, y dotar de recursos las estrategias dirigidas en esta materia."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Impulsar el expediente N.º 24935 'Ley Sila', para garantizar el derecho de las personas trabajadoras al asiento durante sus jornadas laborales."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Impulsar el expediente N.º 23706 Ley de Licencia Menstrual para las Mujeres y Personas Menstruantes Trabajadoras y Día de Descanso para las Estudiantes con Dolores Menstruales."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Impulsar el expediente N.º 23697 Ley para Regular la Fumigación Aérea."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Continuar con el trámite del expediente N.º 24765, Ley de Creación de la Modalidad de Pedagogía Hospitalaria, del Ministerio de Educación Pública, la cual tendrá una coordinación técnica con la CCSS, para brindar apoyo educativo a las personas recién nacidas, niños, niñas, adolescentes y personas con diagnóstico de psiquiatría."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Impulsar el expediente N.º 24481, Ley para Promover, Proteger y Apoyar la Lactancia Materna en todos los entornos, desde escenarios laborales hasta centros de detención para mujeres privadas de libertad."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Volver a plantear estrategias dirigidas a una alimentación saludable, como el expediente N.º 21132 para desincentivar el consumo de productos ultraprocesados, a la vez que generar estrategias dirigidas a fomentar el consumo de productos agrícolas nacionales."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Generar un proyecto de ley para hacer obligatorio el etiquetado y la información a la población sobre los riesgos en alimentos con altos niveles de azúcares, contenidos grasos, así como organismos genéticamente modificados."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Continuar con el trámite del expediente N.º 24231 para reconocer el día nacional de la persona cuidadora de las personas adultas mayores y con discapacidad."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Continuar con la aprobación del expediente N.º 23310 para eximir de la aplicación del impuesto sobre el valor agregado (IVA) a los medicamentos y a sus procesos de producción."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Seguir con el trámite del expediente N.º 24176 para regular el cultivo doméstico de la planta del género cannabis para usos personales, con el fin de proteger la salud pública y los derechos humanos."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Continuar con la gestión del proyecto de ley 24805, para incluir dentro de la Constitución Política que los principios rectores de la Caja Costarricense de Seguro Social sean la equidad, igualdad, solidaridad, obligatoriedad, subsidiariedad, unidad y universalidad."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Tramitar el proyecto de ley 24025, reforma a la Junta Directiva de la CCSS, para eliminar que sea el Poder Ejecutivo quien nombra a la Presidencia de la Junta Directiva."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Generar un proyecto de ley para generar criterios de idoneidad en las Gerencias de la CCSS donde se establezcan aspectos como que no podrán ocupar el cargo por más de dos períodos consecutivos ni quienes estén siendo investigados por presuntos delitos de corrupción."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Retomar el proyecto de ley 21066, con la finalidad de fortalecer y resguardar el carácter público y solidario de los servicios de salud que presta la Caja Costarricense de Seguro Social. En particular, se busca poner freno a los procesos de desmantelamiento, privatización y mercantilización de estos servicios, a través de la adopción de una serie de medidas orientadas a prevenir que se repitan en el futuro las irregularidades serias y abusos cometidos a través de las compras de servicios y figuras similares."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Retomar el expediente N.º 21312 para dar la potestad del Ministerio de Salud de autorizar la contratación temporal de profesionales especialistas ante situaciones de inopia comprobada que pongan en riesgo la salud de la población."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Promover legislación que sancione penalmente los 'biombos', así como a quienes debilitan la prestación de los servicios de salud de la CCSS u omiten su mejoramiento oportuno y refieren personas usuarias afectadas a consultorios o clínicas privadas con las que tienen vinculación."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Promover una reforma a la Ley 9234 de investigaciones biomédicas, para que el Consejo Nacional de Investigación en Salud (CONIS) genere protocolos de investigación aplicables a investigaciones cualitativas y se incluya un enfoque desde la bioética social comunitaria, característica de las realidades latinoamericanas."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Priorizar la pronta aprobación del proyecto de ley del Frente Amplio 24859, para asegurar el pago de la deuda del Estado a la Caja Costarricense de Seguro Social (CCSS) en un periodo de 20 años."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Volver a presentar iniciativas dirigidas a fomentar la imprescriptibilidad de las deudas por cuotas obrero patronales de los seguros sociales (como el expediente N.º 21045)."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Dar seguimiento al expediente N.º 24701 para garantizar el giro de recursos del impuesto al tabaco y del impuesto a dispositivos electrónicos de administración de nicotina y similares a la CCSS."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Insistir con una ley para establecer la obligación de contar con un seguro de la CCSS, como requisito ineludible para adquirir seguros privados de salud en Costa Rica o hacer efectivos seguros transfronterizos en nuestro territorio (como el expediente N.º 21374)."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Continuar con el expediente N.º 24008, para realizar un pago de pensiones mensuales con adelanto quincenal."
+  },
+  {
+    "categoria": "reformas-legales",
+    "propuesta": "Generar alternativas de promoción de la salud que representen una oportunidad de financiamiento al sistema de salud, como lo fue el expediente N.º 21134 Ley para Desincentivar el Consumo de Productos Ultraprocesados y Fortalecer el Régimen de Invalidez, Vejez y Muerte de la Caja Costarricense de Seguro Social."
+  }
+]

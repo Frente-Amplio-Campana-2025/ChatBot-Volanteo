@@ -4,9 +4,9 @@ import { pipeline, env } from 'https://cdn.jsdelivr.net/npm/@xenova/transformers
 env.allowLocalModels = false;
 
 // Variables globales
-let qaDatabase = [];
+let propuestasDatabase = [];
 let embeddings = [];
-let categoryIndex = {}; // Índice por categorías
+let categoryIndex = {};
 let extractor = null;
 let isModelLoaded = false;
 
@@ -15,7 +15,7 @@ const userInput = document.getElementById('userInput');
 const sendBtn = document.getElementById('sendBtn');
 
 const CACHE_KEY = 'chatbot_embeddings_cache';
-const CACHE_VERSION = 'v2.0'; // Incrementar al cambiar estructura
+const CACHE_VERSION = 'v3.0'; // Cambiar a v3 para propuestas
 
 // ====== SISTEMA DE CATEGORIZACIÓN ======
 
@@ -26,14 +26,13 @@ const CATEGORY_KEYWORDS = {
     'cuido': ['cecudi', 'cuido', 'cen-cinai', 'madres', 'infantil', 'red de cuido'],
     'trabajo': ['trabajo', 'laboral', 'fodesaf', 'inspección', 'patrono', 'salario', 'mtss'],
     'poblaciones-vulnerables': ['calle', 'abandono', 'iafa', 'psc', 'discapacidad', 'vulnerable'],
-    'salud': ['salud', 'ccss', 'médico', 'hospital', 'ebais', 'ministerio de salud', 'comunidad'],
+    'salud': ['salud', 'ccss', 'médico', 'hospital', 'ebais', 'ministerio de salud', 'comunidad', 'personal de salud'],
     'salud-mental': ['mental', 'adicción', 'drogas', 'ansiedad', 'depresión', 'suicida', 'eisaa'],
     'prevencion-salud': ['prevención', 'promoción', 'entorno', 'saludable', 'recreativo'],
     'reformas-legales': ['ley', 'reforma', 'proyecto', 'legal', 'reglamento'],
     'migracion': ['migrante', 'dimex', 'migración', 'extranjero']
 };
 
-// Detectar categorías relevantes de una consulta
 function detectCategories(query) {
     const queryLower = query.toLowerCase();
     const scores = {};
@@ -50,17 +49,15 @@ function detectCategories(query) {
         }
     }
     
-    // Retornar categorías ordenadas por relevancia
     return Object.entries(scores)
         .sort((a, b) => b[1] - a[1])
         .map(([cat]) => cat);
 }
 
-// Construir índice de categorías
 function buildCategoryIndex() {
     categoryIndex = {};
     
-    qaDatabase.forEach((item, index) => {
+    propuestasDatabase.forEach((item, index) => {
         const category = item.categoria || 'general';
         if (!categoryIndex[category]) {
             categoryIndex[category] = [];
@@ -73,30 +70,26 @@ function buildCategoryIndex() {
     ));
 }
 
-// Obtener subset de preguntas relevantes
 function getRelevantSubset(query) {
     const categories = detectCategories(query);
     
     if (categories.length === 0) {
-        // Si no hay categoría clara, buscar en todas
-        return qaDatabase.map((_, idx) => idx);
+        return propuestasDatabase.map((_, idx) => idx);
     }
     
-    // Buscar en categorías detectadas
     const indices = new Set();
-    categories.slice(0, 3).forEach(cat => { // Top 3 categorías
+    categories.slice(0, 3).forEach(cat => {
         if (categoryIndex[cat]) {
             categoryIndex[cat].forEach(idx => indices.add(idx));
         }
     });
     
-    // Si el subset es muy pequeño, agregar categoría general
     if (indices.size < 20 && categoryIndex['general']) {
         categoryIndex['general'].forEach(idx => indices.add(idx));
     }
     
     const result = Array.from(indices);
-    console.log(`🎯 Búsqueda en ${result.length}/${qaDatabase.length} preguntas (${categories.join(', ')})`);
+    console.log(`🎯 Búsqueda en ${result.length}/${propuestasDatabase.length} propuestas (${categories.join(', ')})`);
     
     return result;
 }
@@ -133,14 +126,14 @@ async function getEmbedding(text) {
 
 // ====== CACHE ======
 
-async function saveEmbeddingsToCache(embeddings, qaDatabase) {
+async function saveEmbeddingsToCache(embeddings, propuestasDatabase) {
     try {
         const cacheData = {
             version: CACHE_VERSION,
             timestamp: Date.now(),
             embeddings: embeddings,
-            questions: qaDatabase.map(item => item.pregunta),
-            count: qaDatabase.length
+            propuestas: propuestasDatabase.map(item => item.propuesta.substring(0, 100)),
+            count: propuestasDatabase.length
         };
         
         localStorage.setItem(CACHE_KEY, JSON.stringify(cacheData));
@@ -150,7 +143,7 @@ async function saveEmbeddingsToCache(embeddings, qaDatabase) {
     }
 }
 
-async function loadEmbeddingsFromCache(qaDatabase) {
+async function loadEmbeddingsFromCache(propuestasDatabase) {
     try {
         const cached = localStorage.getItem(CACHE_KEY);
         if (!cached) return null;
@@ -158,7 +151,7 @@ async function loadEmbeddingsFromCache(qaDatabase) {
         const cacheData = JSON.parse(cached);
         
         if (cacheData.version !== CACHE_VERSION || 
-            cacheData.count !== qaDatabase.length) {
+            cacheData.count !== propuestasDatabase.length) {
             localStorage.removeItem(CACHE_KEY);
             return null;
         }
@@ -202,7 +195,6 @@ async function loadModel() {
     try {
         showLoadingStatus('Descargando modelo de IA...', 10);
         
-        // Modelo optimizado para español
         extractor = await pipeline('feature-extraction', 'Xenova/multilingual-e5-small');
         
         showLoadingStatus('Modelo cargado correctamente', 30);
@@ -216,18 +208,17 @@ async function loadModel() {
     }
 }
 
-async function loadQADatabase() {
+async function loadPropuestasDatabase() {
     try {
-        showLoadingStatus('Cargando base de datos...', 0);
+        showLoadingStatus('Cargando propuestas...', 0);
         
-        const response = await fetch('preguntas_respuestas.json');
+        const response = await fetch('propuestas.json');
         if (!response.ok) {
-            throw new Error('No se pudo cargar la base de datos');
+            throw new Error('No se pudo cargar las propuestas');
         }
-        qaDatabase = await response.json();
-        console.log(`📚 Base de datos cargada: ${qaDatabase.length} preguntas`);
+        propuestasDatabase = await response.json();
+        console.log(`📚 Propuestas cargadas: ${propuestasDatabase.length}`);
         
-        // Construir índice de categorías
         buildCategoryIndex();
         
         showLoadingStatus('Inicializando inteligencia artificial...', 5);
@@ -236,41 +227,40 @@ async function loadQADatabase() {
         if (!modelLoaded) return;
         
         showLoadingStatus('Verificando cache...', 35);
-        const cachedEmbeddings = await loadEmbeddingsFromCache(qaDatabase);
+        const cachedEmbeddings = await loadEmbeddingsFromCache(propuestasDatabase);
         
         if (cachedEmbeddings) {
             embeddings = cachedEmbeddings;
             showLoadingStatus('✅ Cargado desde cache (instantáneo)', 100);
         } else {
-            showLoadingStatus('Procesando preguntas (primera vez)...', 40);
+            showLoadingStatus('Procesando propuestas (primera vez)...', 40);
             
             embeddings = [];
             const batchSize = 10;
-            const totalBatches = Math.ceil(qaDatabase.length / batchSize);
+            const totalBatches = Math.ceil(propuestasDatabase.length / batchSize);
             
             for (let batchIndex = 0; batchIndex < totalBatches; batchIndex++) {
                 const start = batchIndex * batchSize;
-                const end = Math.min(start + batchSize, qaDatabase.length);
-                const batch = qaDatabase.slice(start, end);
+                const end = Math.min(start + batchSize, propuestasDatabase.length);
+                const batch = propuestasDatabase.slice(start, end);
                 
                 const batchEmbeddings = await Promise.all(
                     batch.map(async (item) => {
-                        const combinedText = `${item.pregunta} ${item.respuesta}`;
-                        return await getEmbedding(combinedText);
+                        return await getEmbedding(item.propuesta);
                     })
                 );
                 
                 embeddings.push(...batchEmbeddings);
                 
-                const progress = 40 + Math.floor(((end) / qaDatabase.length) * 55);
+                const progress = 40 + Math.floor(((end) / propuestasDatabase.length) * 55);
                 showLoadingStatus(
-                    `Procesando preguntas... (${end}/${qaDatabase.length})`,
+                    `Procesando propuestas... (${end}/${propuestasDatabase.length})`,
                     progress
                 );
             }
             
             showLoadingStatus('Guardando en cache...', 95);
-            await saveEmbeddingsToCache(embeddings, qaDatabase);
+            await saveEmbeddingsToCache(embeddings, propuestasDatabase);
         }
         
         showLoadingStatus('¡Todo listo! Puedes empezar a preguntar', 100);
@@ -290,8 +280,8 @@ async function loadQADatabase() {
         console.log('✅ Sistema listo con', embeddings.length, 'embeddings');
         
     } catch (error) {
-        console.error('Error al cargar la base de datos:', error);
-        showError('No se pudo cargar la base de datos.');
+        console.error('Error al cargar propuestas:', error);
+        showError('No se pudo cargar las propuestas.');
     }
 }
 
@@ -300,9 +290,9 @@ async function loadQADatabase() {
 async function findBestMatch(query) {
     if (!isModelLoaded || embeddings.length === 0) {
         return {
-            respuesta: 'El sistema aún está cargando. Por favor espera unos segundos.',
+            propuesta: 'El sistema aún está cargando. Por favor espera unos segundos.',
             similitud: 0,
-            pregunta: '',
+            categoria: '',
             alternativas: []
         };
     }
@@ -310,14 +300,12 @@ async function findBestMatch(query) {
     try {
         const queryEmbedding = await getEmbedding(query);
         
-        // OPTIMIZACIÓN: Buscar solo en subset relevante
         const relevantIndices = getRelevantSubset(query);
         
-        // Calcular similitud solo con preguntas relevantes
         let matches = relevantIndices.map(index => {
             const similarity = cosineSimilarity(queryEmbedding, embeddings[index]);
             return {
-                item: qaDatabase[index],
+                item: propuestasDatabase[index],
                 similarity: similarity * 100
             };
         });
@@ -327,35 +315,36 @@ async function findBestMatch(query) {
         const bestMatch = matches[0];
         
         const alternativas = matches
-            .slice(1, 5)
+            .slice(1, 4)
             .filter(match => match.similarity > 40)
             .map(match => ({
-                pregunta: match.item.pregunta,
-                similitud: match.similarity
+                propuesta: match.item.propuesta.substring(0, 150) + '...',
+                similitud: match.similarity,
+                categoria: match.item.categoria
             }));
 
         if (bestMatch.similarity < 30) {
             return {
-                respuesta: 'No encontré una respuesta directa a tu pregunta. Intenta reformular o usar términos como: "salud", "CCSS", "mujeres", "violencia", "trabajo", "cannabis", "licencia menstrual", "deuda", "pensiones".',
+                propuesta: 'No encontré información sobre eso en el plan de gobierno. Intenta preguntar sobre: asistencia social, pensiones, educación, salud, trabajo, cuido infantil, poblaciones vulnerables.',
                 similitud: bestMatch.similarity,
-                pregunta: '',
+                categoria: '',
                 alternativas: alternativas
             };
         }
 
         return {
-            respuesta: bestMatch.item.respuesta,
+            propuesta: bestMatch.item.propuesta,
             similitud: bestMatch.similarity,
-            pregunta: bestMatch.item.pregunta,
+            categoria: bestMatch.item.categoria,
             alternativas: alternativas
         };
         
     } catch (error) {
-        console.error('Error al buscar coincidencia:', error);
+        console.error('Error al buscar:', error);
         return {
-            respuesta: 'Ocurrió un error al procesar tu pregunta. Por favor, intenta de nuevo.',
+            propuesta: 'Ocurrió un error al procesar tu pregunta. Por favor, intenta de nuevo.',
             similitud: 0,
-            pregunta: '',
+            categoria: '',
             alternativas: []
         };
     }
@@ -370,7 +359,7 @@ function showError(message) {
     chatContainer.appendChild(errorDiv);
 }
 
-function addMessage(text, isUser, confidence = null) {
+function addMessage(text, isUser, confidence = null, categoria = null) {
     const welcomeMsg = chatContainer.querySelector('.welcome-message');
     if (welcomeMsg && isUser) {
         welcomeMsg.remove();
@@ -386,6 +375,14 @@ function addMessage(text, isUser, confidence = null) {
     const content = document.createElement('div');
     content.className = 'message-content';
     content.textContent = text;
+
+    if (!isUser && categoria) {
+        const categoryBadge = document.createElement('div');
+        categoryBadge.className = 'category-badge';
+        categoryBadge.textContent = `📂 ${categoria}`;
+        categoryBadge.style.cssText = 'display: inline-block; background: #f0f0f0; padding: 4px 8px; border-radius: 4px; font-size: 11px; margin-bottom: 8px; color: #666;';
+        content.insertBefore(categoryBadge, content.firstChild);
+    }
 
     if (!isUser && confidence !== null) {
         const confidenceText = document.createElement('div');
@@ -445,27 +442,21 @@ async function handleUserQuestion() {
     
     removeLoading();
 
-    addMessage(match.respuesta, false, match.similitud);
+    addMessage(match.propuesta, false, match.similitud, match.categoria);
 
-    if (match.similitud >= 50 && match.pregunta) {
+    if (match.alternativas && match.alternativas.length > 0 && match.similitud < 80) {
         setTimeout(() => {
-            addMessage(`📌 Pregunta relacionada: "${match.pregunta}"`, false);
-        }, 400);
-    }
-
-    if (match.alternativas && match.alternativas.length > 0 && match.similitud < 75) {
-        setTimeout(() => {
-            let alternativasText = '💡 También podrías preguntar sobre:\n\n';
-            match.alternativas.slice(0, 3).forEach((alt, index) => {
-                alternativasText += `${index + 1}. ${alt.pregunta}\n`;
+            let alternativasText = '💡 También encontré estas propuestas relacionadas:\n\n';
+            match.alternativas.forEach((alt, index) => {
+                alternativasText += `${index + 1}. [${alt.categoria}] ${alt.propuesta}\n\n`;
             });
             addMessage(alternativasText, false);
-        }, 800);
+        }, 600);
     }
 
     if (match.similitud < 40) {
         setTimeout(() => {
-            addMessage('💬 Tip: Intenta ser más específico. Puedo ayudarte con temas como: salud, CCSS, mujeres, violencia, trabajo, cannabis, pensiones, etc.', false);
+            addMessage('💬 Tip: Intenta ser más específico. Puedo ayudarte con: salud, educación, pensiones, trabajo, cuido infantil, asistencia social, etc.', false);
         }, 1200);
     }
 }
@@ -478,4 +469,4 @@ userInput.addEventListener('keypress', (e) => {
     }
 });
 
-loadQADatabase();
+loadPropuestasDatabase();
